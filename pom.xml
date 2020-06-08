@@ -17,7 +17,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
 	  <maven.compiler.target>1.8</maven.compiler.target>
 	  <main-class>HamiSyphax.note.App</main-class>
-	  <lucene.version>4.0.0</lucene.version>
+	  <lucene.version>8.5.1</lucene.version>
   </properties>
 
 
